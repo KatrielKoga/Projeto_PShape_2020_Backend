@@ -1,8 +1,0 @@
-.graficos {
-  display: flex;
-  margin: 10px;
-}
-
-.graficos :first-child {
-  margin-right: 10px;
-}
